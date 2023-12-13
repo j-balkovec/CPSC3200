@@ -1,0 +1,2310 @@
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] DeepCopy[Plan] Invoked: Called => PlanDeepCopy() 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Clone[Plan] Invoked: Called => Clone(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] ShallowCopy[Plan] Invoked: Called => PlanShallowCopy() 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] AddFormula[Plan] Invoked: Called => AddFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length 5 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] AddFormula[Plan] Invoked: Called => AddFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length 5 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] AddFormula[Plan] Invoked: Called => AddFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length 5 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [FA]Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [NFA]Length: 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [FA]Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [NFA]Length: 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [FA]Length: 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [NFA]Length: 2 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [FA]Length: 2 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [NFA]Length: 1 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [#]Objects: ResourceConversion.Formula 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [FA]Length: 1 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [NFA]Length: 0 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [#]Objects:  
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [FA]Length: 0 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] ReplaceFormula[Plan] Invoked: Called => ReplaceFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula Length: 4, Index: 0 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] ReplaceFormula[Plan] Invoked: Called => ReplaceFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula Length: 4, Index: 0 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] ReplaceFormula[Plan] Invoked: Called => ReplaceFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula Length: 4, Index: 0 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] ReplaceFormula[Plan] Invoked: Called => ReplaceFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula Length: 4, Index: 0 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] DeepCopy[EPlan] Invoked: Called => EPlanDeepCopy() 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Clone[Plan] Invoked: Called => Clone() Values: (, ) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] ShallowCopy[EPlan] Invoked: Called => EPlanShallowCopy() 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] AddFormula[Plan] Invoked: Called => AddFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length 5 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] AddFormula[Plan] Invoked: Called => AddFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length 5 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] AddFormula[Plan] Invoked: Called => AddFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length 5 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[ERROR] [EP]AddFormula: Called => [EP]AddFormula()
+ Values: (NewFormula):  
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula() Values: (Index): 3, (ArraySize): 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[WARNING] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula()
+ Values: (_Step): 0, (CompletedArray): (False, False, False, False) (Index): 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula() Values: (ArraySize): 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula() Calling base.RemoveLastFormula 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [FA]Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [NFA]Length: 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[ERROR] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (CurrentStep): 5, (Array Size): 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]PlanApply: Called => [EP]PlanApply()
+ Values: (False, False, False, False), Length[CA]: 4 , Step: 0 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] OutComeChances accquired 
+ [No Function]():  Outcome Chances: ResourceConversion.Formula+OutcomeModifiers
+
+[2023-10-22 15:35:41]::[INFO] NextDouble accquired 
+ [No Function]():  Random Value Generated: 0.17148893776881546
+
+[2023-10-22 15:35:41]::[INFO] [EP]PlanApply: Called => [EP]PlanApply()
+ Values: (True, False, False, False), Length[CA]: 4 , Step: 1 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] OutComeChances accquired 
+ [No Function]():  Outcome Chances: ResourceConversion.Formula+OutcomeModifiers
+
+[2023-10-22 15:35:41]::[INFO] NextDouble accquired 
+ [No Function]():  Random Value Generated: 0.3894474996122139
+
+[2023-10-22 15:35:41]::[INFO] [EP]PlanApply: Called => [EP]PlanApply()
+ Values: (True, True, False, False), Length[CA]: 4 , Step: 2 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] OutComeChances accquired 
+ [No Function]():  Outcome Chances: ResourceConversion.Formula+OutcomeModifiers
+
+[2023-10-22 15:35:41]::[INFO] NextDouble accquired 
+ [No Function]():  Random Value Generated: 0.7624862983526558
+
+[2023-10-22 15:35:41]::[INFO] [EP]PlanApply: Called => [EP]PlanApply()
+ Values: (True, True, True, False), Length[CA]: 4 , Step: 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] OutComeChances accquired 
+ [No Function]():  Outcome Chances: ResourceConversion.Formula+OutcomeModifiers
+
+[2023-10-22 15:35:41]::[INFO] NextDouble accquired 
+ [No Function]():  Random Value Generated: 0.7604895947398764
+
+[2023-10-22 15:35:41]::[DEBUG] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula() Values: (Index): 3, (ArraySize): 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[WARNING] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula()
+ Values: (_Step): 4, (CompletedArray): (True, True, True, True) (Index): 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[ERROR] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula()
+ Values: (_Step): 4, (Index): 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] ReplaceFormula[Plan] Invoked: Called => ReplaceFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula Length: 4, Index: 0 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] ReplaceFormula[Plan] Invoked: Called => ReplaceFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula Length: 4, Index: 0 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] ReplaceFormula[Plan] Invoked: Called => ReplaceFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula Length: 4, Index: 0 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (2) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[ERROR] [EP]ReplaceFormula: Called => [EP]ReplaceFormulaReplaceFormula()
+ Values: (_Step): 2, (Index): 1 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]PlanApply: Called => [EP]PlanApply()
+ Values: (False, False, False, False), Length[CA]: 4 , Step: 0 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] OutComeChances accquired 
+ [No Function]():  Outcome Chances: ResourceConversion.Formula+OutcomeModifiers
+
+[2023-10-22 15:35:41]::[INFO] NextDouble accquired 
+ [No Function]():  Random Value Generated: 0.2596299603801684
+
+[2023-10-22 15:35:41]::[INFO] [EP]PlanApply: Called => [EP]PlanApply()
+ Values: (True, False, False, False), Length[CA]: 4 , Step: 1 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] OutComeChances accquired 
+ [No Function]():  Outcome Chances: ResourceConversion.Formula+OutcomeModifiers
+
+[2023-10-22 15:35:41]::[INFO] NextDouble accquired 
+ [No Function]():  Random Value Generated: 0.03826341533937638
+
+[2023-10-22 15:35:41]::[ERROR] [EP]ReplaceFormula: Called => [EP]ReplaceFormulaReplaceFormula()
+ Values: (_Step): 2, (Index): 1 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock1],
+ InQ: [1],
+ OutR: [Y-Mock1],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock2],
+ InQ: [1],
+ OutR: [Y-Mock2],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X-Mock3],
+ InQ: [1],
+ OutR: [Y-Mock3],
+ OutQ: [2],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X1],
+ InQ: [2],
+ OutR: [Y1],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X2-1, X2-1],
+ InQ: [3, 1],
+ OutR: [Y2],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X3-1, X3-2],
+ InQ: [8, 4],
+ OutR: [Y3],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [X4-1, X4-2, X4-3],
+ InQ: [2, 3, 1],
+ OutR: [Y4],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:35:41]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:35:41]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (0) 
+ [No Function](): [No Condition]

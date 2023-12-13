@@ -1,0 +1,53 @@
+
+[2023-10-22 15:40:20]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (1) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[INFO] AddFormula[Plan] Invoked: Called => AddFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[INFO] ReplaceFormula[Plan] Invoked: Called => ReplaceFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula Length: 4, Index: 1 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[DEBUG] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula() Values: (Index): 3, (ArraySize): 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[WARNING] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula()
+ Values: (_Step): 1, (CompletedArray): (False, False, False, False) (Index): 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[DEBUG] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula() Values: (ArraySize): 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[DEBUG] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula() Calling base.RemoveLastFormula 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [FA]Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [NFA]Length: 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[INFO] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[INFO] [EP]PlanApply: Called => [EP]PlanApply()
+ Values: (False, False, False, False), Length[CA]: 4 , Step: 1 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[INFO] DeepCopy[EPlan] Invoked: Called => EPlanDeepCopy() 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[INFO] Clone[Plan] Invoked: Called => Clone() Values: (, ) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (2) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:40:20]::[INFO] ShallowCopy[EPlan] Invoked: Called => EPlanShallowCopy() 
+ [No Function](): [No Condition]

@@ -1,0 +1,115 @@
+
+[2023-10-22 15:38:37]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [Iron Ore],
+ InQ: [2],
+ OutR: [Iron Bar],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:38:37]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [Iron Ore, Coal],
+ InQ: [3, 1],
+ OutR: [Steel Bar],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:38:37]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [Eggs, Chesee],
+ InQ: [8, 4],
+ OutR: [Omlet],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:38:37]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [Butter, Eggs, Sugar, Flour, Baking Soda],
+ InQ: [2, 3, 1, 2, 2],
+ OutR: [Cookies],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:38:37]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (1) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[INFO] AddFormula[Plan] Invoked: Called => AddFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[INFO] ReplaceFormula[Plan] Invoked: Called => ReplaceFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula Length: 4, Index: 1 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[DEBUG] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula() Values: (Index): 3, (ArraySize): 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[WARNING] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula()
+ Values: (_Step): 1, (CompletedArray): (False, False, False, False) (Index): 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[DEBUG] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula() Values: (ArraySize): 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[DEBUG] [EP]RemoveLastFormula: Called => [EP]RemoveLastFormula() Calling base.RemoveLastFormula 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [FA]Length: 4 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[DEBUG] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [NFA]Length: 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[INFO] RemoveLastFormula[Plan] Invoked: Called => RemoveLastFormula(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[INFO] [EP]PlanApply: Called => [EP]PlanApply()
+ Values: (False, False, False, False), Length[CA]: 4 , Step: 1 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[INFO] OutComeChances accquired 
+ [No Function]():  Outcome Chances: ResourceConversion.Formula+OutcomeModifiers
+
+[2023-10-22 15:38:37]::[INFO] NextDouble accquired 
+ [No Function]():  Random Value Generated: 0.4127324680545996
+
+[2023-10-22 15:38:37]::[INFO] DeepCopy[EPlan] Invoked: Called => EPlanDeepCopy() 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [Iron Ore],
+ InQ: [2],
+ OutR: [Iron Bar],
+ OutQ: [1],
+ ProfLvl: 3
+
+[2023-10-22 15:38:37]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [Butter, Eggs, Sugar, Flour, Baking Soda],
+ InQ: [2, 3, 1, 2, 2],
+ OutR: [Cookies],
+ OutQ: [36],
+ ProfLvl: 3
+
+[2023-10-22 15:38:37]::[INFO] Formula Object Instantiated with provided parameters 
+ [No Function](): 
+ InR: [Eggs, Chesee],
+ InQ: [8, 4],
+ OutR: [Omlet],
+ OutQ: [16],
+ ProfLvl: 3
+
+[2023-10-22 15:38:37]::[INFO] Clone[Plan] Invoked: Called => Clone() Values: (, ) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[INFO] Plan Ctor Invoked: Called => Plan(), [#]Objects: ResourceConversion.Formula, ResourceConversion.Formula, ResourceConversion.Formula, Length: 3 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[INFO] [EP]Ctor Invoked: Called => ExecutablePlan() Values: (, ), Step: (2) 
+ [No Function](): [No Condition]
+
+[2023-10-22 15:38:37]::[INFO] ShallowCopy[EPlan] Invoked: Called => EPlanShallowCopy() 
+ [No Function](): [No Condition]
