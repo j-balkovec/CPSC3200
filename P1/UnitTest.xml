@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UnitTest</name>
+    </assembly>
+    <members>
+        <member name="T:ResourceConversion.Formula.OutcomeModifiers">
+            <summary>
+            * Represents modifiers for different outcome types based on
+              proficiency level.
+            </summary>
+        </member>
+        <member name="M:ResourceConversion.Formula.OutcomeModifiers.#ctor(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            * Initializes a new instance of the OutcomeModifiers struct.
+            </summary>
+            
+            <param name="failure">The modifier for the failure outcome.</param>
+            <param name="partial">The modifier for the partial outcome.</param>
+            <param name="bonus">The modifier for the bonus outcome.</param>
+            <param name="normal">The modifier for the normal outcome.</param>
+        </member>
+        <member name="M:ResourceConversion.Formula.#ctor(System.String[],System.UInt32[],System.String[],System.UInt32[],System.UInt32)">
+             <summary>
+             * Initializes a new instance of the Formula class with specified input and output parameters.
+             </summary>
+             
+             <param name="InputResources">An array of input resource names.</param>
+             <param name="InputQuantities">An array of input resource quantities.</param>
+             <param name="OutputResources">An array of output resource names.</param>
+             <param name="OutputQuantities">An array of output resource quantities.</param>
+             <param name="ProficiencyLevel">The proficiency level of the formula.</param>
+             
+             <remarks>
+             * Initializes a new instance of the Formula class with the specified input and output parameters.
+            
+             <precondition>
+             * The InputResources, InputQuantities, OutputResources, OutputQuantities arrays must not be null.
+             * The lengths of InputResources, InputQuantities, OutputResources, OutputQuantities arrays must be the same.
+             * InputQuantities and OutputQuantities must contain non-negative quantities (uint values).
+             * ProficiencyLevel should be a non-negative integer.
+             </precondition>
+             
+             <postcondition>
+             Postconditions:
+             * The Formula object is successfully instantiated.
+             * The InputResources, InputQuantities, OutputResources, OutputQuantities,
+               and ProficiencyLevel fields are assigned their respective values.
+             * The Formula object is ready for use in applying the formula to simulate outcomes.
+             </postcondition>
+             
+             <exception cref="T:System.ArgumentException">
+             Thrown when:
+             * InputResources is null, empty, or contains only whitespace.
+             * OutputResources is null, empty, or contains only whitespace.
+             * ProficiencyLevel exceeds the maximum allowed value of 4.
+             </exception>
+             </remarks>
+        </member>
+        <member name="M:ResourceConversion.Formula.GetOutcomeChances(System.UInt32)">
+            <summary>
+            * Retrieves the outcome modifiers (chances) based on the proficiency level.
+            </summary>
+            
+            <param name="Level">The proficiency level, which affects outcome chances.</param>
+            
+            <returns>An OutcomeModifiers struct containing the modified outcome chances.</returns>
+            
+            <remarks>
+            <precondition>
+            * The <paramref name="Level"/> should be a non-negative integer.
+            </precondition>
+            
+            <postcondition>
+            * The returned OutcomeModifiers struct contains the modified outcome chances
+            </postcondition>
+            </remarks>
+        </member>
+        <member name="M:ResourceConversion.Formula.Apply">
+            <summary>
+             * Applies the formula to simulate resource conversion outcomes based on the proficiency level.
+            </summary>
+            
+            <returns>
+             * An array of output resource quantities representing the result of applying the formula.
+            </returns>
+            
+            <remarks>
+             * This method calculates the output quantities of resources based on the proficiency level
+               and random chance factors. The outcome may vary depending on the proficiency level set
+               for the Formula instance.
+            
+             <precondition>
+             * The ProficiencyLevel should be a non-negative integer.
+             * The OutputQuantities array should not be null and should have the same length as the
+               outputResources array.
+             </precondition>
+            
+             <postcondition>
+             * The returned array should not be null.
+             * The length of the returned array should match the number of output resources defined
+               in the formula.
+             </postcondition>
+            </remarks>
+            
+             <bug>
+             The Ranges contain bugs
+             </bug>
+        </member>
+        <member name="T:UnitTest.FormulaTests">
+            <summary>
+            * Test class for the Formula class, which represents a resource conversion formula.
+            </summary>
+        </member>
+        <member name="M:UnitTest.FormulaTests.TestFormulaConstructorValidInput">
+             <summary>
+             * Test the constructor of the Formula class with valid input.
+             </summary>
+            
+             <remarks>
+             * This test case verifies that the Formula constructor works correctly with valid input.
+             * It checks if the Formula object is not null after construction.
+             
+             <preconditions>
+             * InputResources is an array of input resource names.
+             * InputQuantities is an array of input quantities corresponding to InputResources.
+             * OutputResources is an array of output resource names.
+             * OutputQuantities is an array of output quantities corresponding to OutputResources.
+             * ProficiencyLevel is a positive integer representing the proficiency level of the formula.
+             </preconditions>
+            
+             <postconditions>
+             * A Formula object is created with the provided input.
+             * The Formula object is not null.
+             </postconditions>
+             </remarks>
+        </member>
+        <member name="M:UnitTest.FormulaTests.TestFormulaConstructorInvalidArray">
+             <summary>
+             *  Test the Formula constructor with invalid input array, expecting an ArgumentException.
+             </summary>
+            
+             <remarks>
+             * This test case verifies that the Formula constructor correctly throws
+               an ArgumentException when provided with invalid input.
+             
+             <preconditions>
+             * InputResources is an array of input resource names.
+             * InputQuantities is an array of input quantities corresponding to InputResources.
+             * OutputResources is an array of output resource names.
+             * OutputQuantities is an array of output quantities corresponding to OutputResources.
+             * ProficiencyLevel is a positive integer representing the proficiency level of the formula.
+             </preconditions>
+            
+             <postconditions>
+             * An ArgumentException is expected to be thrown during the creation
+               of the Formula object with invalid input.
+             </postconditions>
+             </remarks>
+        </member>
+        <member name="M:UnitTest.FormulaTests.TestFormulaConstructorInvalidArrayLength">
+             <summary>
+             *  Test the Formula constructor with input arrays of unequal length, expecting an ArgumentException.
+             </summary>
+            
+             <remarks>
+             * This test case verifies that the Formula constructor correctly throws an ArgumentException
+               when provided with input arrays of unequal length.
+             
+             <preconditions>
+             * InputResources is an array of input resource names.
+             * InputQuantities is an array of input quantities corresponding to InputResources.
+             * OutputResources is an array of output resource names.
+             * OutputQuantities is an array of output quantities corresponding to OutputResources.
+             * ProficiencyLevel is a positive integer representing the proficiency level of the formula.
+             </preconditions>
+            
+             <postconditions>
+             * An ArgumentException is expected to be thrown during the creation of the
+               Formula object with input arrays of unequal length.
+             </postconditions>
+             </remarks>
+        </member>
+        <member name="M:UnitTest.FormulaTests.TestFormulaConstructorInvalidProficiencyLevel">
+             <summary>
+             *  Test the Formula constructor with an invalid proficiency level, expecting an ArgumentException.
+             </summary>
+            
+             <remarks>
+             * This test case verifies that the Formula constructor correctly throws an
+             ArgumentException when provided with an invalid proficiency level.
+             
+             <preconditions>
+             * InputResources is an array of input resource names.
+             * InputQuantities is an array of input quantities corresponding to InputResources.
+             * OutputResources is an array of output resource names.
+             * OutputQuantities is an array of output quantities corresponding to OutputResources.
+             * ProficiencyLevel is a positive integer representing the proficiency level of the formula.
+             </preconditions>
+            
+             <postconditions>
+             * An ArgumentException is expected to be thrown during the creation of the Formula
+               object with an invalid proficiency level.
+             </postconditions>
+             </remarks>
+        </member>
+        <member name="M:UnitTest.FormulaTests.TestFormulaConstructorInvalidParameters">
+             <summary>
+             * Test method to verify the behavior of the Formula constructor with invalid parameters.
+             </summary>
+             
+             <remarks>
+             * This test case checks whether the Formula constructor properly throws an ArgumentException
+               when invalid parameters are provided.
+            
+             <preconditions>
+             * InputResources is an array of input resource names.
+             * InputQuantities is an array of input quantities corresponding to InputResources.
+             * OutputResources is an array of output resource names.
+             * OutputQuantities is an array of output quantities corresponding to OutputResources.
+             * ProficiencyLevel is a positive integer representing the proficiency level of the formula.
+             </preconditions>
+             
+             <postconditions>
+             * An ArgumentException should be thrown when attempting to create the Formula instance.
+             </postconditions>
+             </remarks>
+        </member>
+        <member name="M:UnitTest.FormulaTests.TestApplyLevelGreaterThanZero">
+             <summary>
+             * Test method to verify the behavior of the Formula.Apply() method when the
+               proficiency level is greater than zero.
+             </summary>
+             
+             <remarks>
+             * This test case checks the Result of applying a Formula with a proficiency level greater than zero.
+               It verifies that there is zero chance of obtaining a partial Result when the proficiency level is 4.
+            
+             <preconditions>
+             * InputResources is an array of input resource names.
+             * InputQuantities is an array of input quantities corresponding to InputResources.
+             * OutputResources is an array of output resource names.
+             * OutputQuantities is an array of output quantities corresponding to OutputResources.
+             * ProficiencyLevel is a positive integer representing the proficiency level of the formula.
+             </preconditions>
+             
+             <postconditions>
+             * The Formula instance should be successfully created.
+             * The Result array should contain valid values.
+             * There should be zero chance of obtaining a partial Result when the proficiency level is 4.
+             </postconditions>
+             </remarks>
+        </member>
+        <member name="M:UnitTest.FormulaTests.TestApplyMaxLevel">
+             <summary>
+             *  Test method to verify the behavior of the Formula.Apply() method when the proficiency level is at its maximum (level 5).
+             </summary>
+             
+             <remarks>
+             * This test case checks the Result of applying a Formula with a proficiency level of 5.
+               It verifies that there is zero chance of failure when the proficiency level is at its maximum.
+            
+             <preconditions>
+             * InputResources is an array of input resource names.
+             * InputQuantities is an array of input quantities corresponding to InputResources.
+             * OutputResources is an array of output resource names.
+             * OutputQuantities is an array of output quantities corresponding to OutputResources.
+             * ProficiencyLevel is a positive integer representing the proficiency level of the formula.
+             </preconditions>
+             
+             <postconditions>
+             * The Formula instance should be successfully created.
+             * The Result array should contain valid values.
+             * There should be zero chance of failure when the proficiency level is at its maximum (level 5).
+             </postconditions>
+             </remarks>
+        </member>
+        <member name="M:UnitTest.FormulaTests.TestRandomDistributionOfApplyMethod">
+             <summary>
+             *  Test method to verify the random distribution of the Formula.Apply() method.
+             </summary>
+             
+             <remarks>
+             * This test case checks the random distribution of Results when applying a Formula with a proficiency level of 0.
+               It applies the Formula multiple times and ensures that the Results fall within expected values.
+            
+             <preconditions>
+             * InputResources is an array of input resource names.
+             * InputQuantities is an array of input quantities corresponding to InputResources.
+             * OutputResources is an array of output resource names.
+             * OutputQuantities is an array of output quantities corresponding to OutputResources.
+             * ProficiencyLevel is a positive integer representing the proficiency level of the formula.
+             </preconditions>
+             
+             <postconditions>
+             * The Formula instance should be successfully created.
+             * Multiple Results should be generated by applying the Formula.
+             * Each Result should contain values that fall within expected ranges (null, 61, 82, or 91).
+             </postconditions>
+             </remarks>
+        </member>
+        <member name="M:UnitTest.FormulaTests.TestApplyMethodPerformance">
+             <summary>
+             *  Test method to evaluate the performance of the Formula.Apply() method.
+             </summary>
+             
+             <remarks>
+             * This test case assesses the performance of applying the Formula with a proficiency level of 5.
+               It measures the execution time of applying the Formula a large number of times and compares it
+               to a specified time limit to ensure it completes within an acceptable timeframe.
+            
+             <preconditions>
+             * InputResources is an array of input resource names.
+             * InputQuantities is an array of input quantities corresponding to InputResources.
+             * OutputResources is an array of output resource names.
+             * OutputQuantities is an array of output quantities corresponding to OutputResources.
+             * ProficiencyLevel is a positive integer representing the proficiency level of the formula.
+             </preconditions>
+             
+             <postconditions>
+             * The Formula instance should be successfully created.
+             * The Formula.Apply() method should execute within an acceptable time limit.
+             </postconditions>
+             </remarks>
+        </member>
+    </members>
+</doc>

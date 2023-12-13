@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Project1</name>
+    </assembly>
+    <members>
+        <member name="M:Driver.DisplayValues(System.String[],System.UInt32[],System.String[],System.UInt32[])">
+            <summary>
+            * Displays the input and output values for a resource conversion.
+            </summary>
+            
+            <param name="InputResources">An array of input resource names.</param>
+            <param name="InputQuantities">An array of input resource quantities.</param>
+            <param name="OutputResources">An array of output resource names.</param>
+            <param name="OutputQuantities">An array of output resource quantities.</param>
+            
+            <exception cref="T:System.ArgumentException">
+            * Thrown if the lengths of InputResources and InputQuantities arrays do not match.
+            </exception>
+            
+            <remarks>
+            <precondition>
+            * The InputResources and InputQuantities arrays must not be null.
+            * The lengths of InputResources and InputQuantities arrays must match.
+            </precondition>
+            
+            <postcondition>
+            * If the precondition is met, the method displays the input and output values.
+            </postcondition>
+            </remarks>
+        </member>
+        <member name="M:Driver.PrintErrorMessage(System.Exception)">
+            <summary>
+            * Prints an error message with a custom format and waits for user input
+              to continue.
+            </summary>
+            
+            <param name="ErrorThrown">The exception that triggered the error message.</param>
+            
+            <remark>
+            * Waits for user input before continuing.
+            </remark>
+            
+            <precondition>
+            * Set console foreground color to red.
+            </precondition>
+            
+            <postcondition>
+            * Resets the console foreground color after displaying the error message.
+            </postcondition>
+        </member>
+        <member name="M:Driver.Main(System.String[])">
+            <summary>
+            Entry point of the application.
+            </summary>
+            
+            <param name="args">Command-line arguments. [maybe_unused]</param>
+            
+            <remarks>
+            This method demonstrates the functionality of the Formula class by creating an array of
+            formula instances and displaying input and output values.
+            </remarks>
+            
+            <precondition>
+            * None
+            </precondition>
+            
+            <postcondition>
+            * The program runs and showcases the resource conversion using the Formula class.
+            </postcondition>
+        </member>
+        <member name="T:ResourceConversion.Formula.OutcomeModifiers">
+            <summary>
+            * Represents modifiers for different outcome types based on
+              proficiency level.
+            </summary>
+        </member>
+        <member name="M:ResourceConversion.Formula.OutcomeModifiers.#ctor(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            * Initializes a new instance of the OutcomeModifiers struct.
+            </summary>
+            
+            <param name="failure">The modifier for the failure outcome.</param>
+            <param name="partial">The modifier for the partial outcome.</param>
+            <param name="bonus">The modifier for the bonus outcome.</param>
+            <param name="normal">The modifier for the normal outcome.</param>
+        </member>
+        <member name="M:ResourceConversion.Formula.#ctor(System.String[],System.UInt32[],System.String[],System.UInt32[],System.UInt32)">
+             <summary>
+             * Initializes a new instance of the Formula class with specified input and output parameters.
+             </summary>
+             
+             <param name="InputResources">An array of input resource names.</param>
+             <param name="InputQuantities">An array of input resource quantities.</param>
+             <param name="OutputResources">An array of output resource names.</param>
+             <param name="OutputQuantities">An array of output resource quantities.</param>
+             <param name="ProficiencyLevel">The proficiency level of the formula.</param>
+             
+             <remarks>
+             * Initializes a new instance of the Formula class with the specified input and output parameters.
+            
+             <precondition>
+             * The InputResources, InputQuantities, OutputResources, OutputQuantities arrays must not be null.
+             * The lengths of InputResources, InputQuantities, OutputResources, OutputQuantities arrays must be the same.
+             * InputQuantities and OutputQuantities must contain non-negative quantities (uint values).
+             * ProficiencyLevel should be a non-negative integer.
+             </precondition>
+             
+             <postcondition>
+             Postconditions:
+             * The Formula object is successfully instantiated.
+             * The InputResources, InputQuantities, OutputResources, OutputQuantities,
+               and ProficiencyLevel fields are assigned their respective values.
+             * The Formula object is ready for use in applying the formula to simulate outcomes.
+             </postcondition>
+             
+             <exception cref="T:System.ArgumentException">
+             Thrown when:
+             * InputResources is null, empty, or contains only whitespace.
+             * OutputResources is null, empty, or contains only whitespace.
+             * ProficiencyLevel exceeds the maximum allowed value of 4.
+             </exception>
+             </remarks>
+        </member>
+        <member name="M:ResourceConversion.Formula.GetOutcomeChances(System.UInt32)">
+            <summary>
+            * Retrieves the outcome modifiers (chances) based on the proficiency level.
+            </summary>
+            
+            <param name="Level">The proficiency level, which affects outcome chances.</param>
+            
+            <returns>An OutcomeModifiers struct containing the modified outcome chances.</returns>
+            
+            <remarks>
+            <precondition>
+            * The <paramref name="Level"/> should be a non-negative integer.
+            </precondition>
+            
+            <postcondition>
+            * The returned OutcomeModifiers struct contains the modified outcome chances
+            </postcondition>
+            </remarks>
+        </member>
+        <member name="M:ResourceConversion.Formula.Apply">
+            <summary>
+             * Applies the formula to simulate resource conversion outcomes based on the proficiency level.
+            </summary>
+            
+            <returns>
+             * An array of output resource quantities representing the result of applying the formula.
+            </returns>
+            
+            <remarks>
+             * This method calculates the output quantities of resources based on the proficiency level
+               and random chance factors. The outcome may vary depending on the proficiency level set
+               for the Formula instance.
+            
+             <precondition>
+             * The ProficiencyLevel should be a non-negative integer.
+             * The OutputQuantities array should not be null and should have the same length as the
+               outputResources array.
+             </precondition>
+            
+             <postcondition>
+             * The returned array should not be null.
+             * The length of the returned array should match the number of output resources defined
+               in the formula.
+             </postcondition>
+            </remarks>
+        </member>
+    </members>
+</doc>
